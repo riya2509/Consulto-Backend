@@ -1,0 +1,17 @@
+{
+  "name": "consulto-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^5.0.0-beta.2",
+    "moment": "^2.30.1",
+    "mysql": "^2.18.1"
+  }
+}
