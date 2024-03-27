@@ -12,12 +12,6 @@ const Master = sequelize.define(
       type: DataTypes.STRING,
       unique: true,
     },
-    college: {
-      type: DataTypes.STRING,
-    },
-    year: {
-      type: DataTypes.INTEGER,
-    },
     birthday: {
       type: DataTypes.DATE,
     },
